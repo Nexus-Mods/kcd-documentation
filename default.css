@@ -2006,6 +2006,8 @@ a.Element860 {
     margin-top : 0px;
     text-align : left;
     white-space: pre;
+    /* Custom hide css */
+    display: none;
 }
 
 .Element146 {
